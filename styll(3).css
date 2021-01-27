@@ -1,0 +1,260 @@
+/* desktop */
+    @media (min-width: 992px) { 
+ .navbar-toggler {
+            float: left !important;
+        }
+
+        .menu-container {
+            background-color: #343a40;
+        }
+        
+        .no {
+            width: 20%;
+        }
+        .menu {
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .none {
+            width: 100%;
+        }
+
+* {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /* The grid: Three equal columns that floats next to each other */
+        .column {
+            float: left;
+            width: 50%;
+            padding: 50px;
+            text-align: center;
+            font-size: 25px;
+            cursor: pointer;
+            color: white;
+        }
+
+        .containerTab {
+            padding: 20px;
+            color: white;
+        }
+
+        /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        /* Closable button inside the container tab */
+        .closebtn {
+            float: right;
+            color: white;
+            font-size: 35px;
+            cursor: pointer;
+        }
+    .mnn {
+        width: 50%;
+        display: flex;
+    }
+.vc {
+            margin-top: 10px;
+            width: 100%;
+            background-color: darkblue;
+            height: 170px;
+        }
+        .g {
+            margin-top: 50px;
+            margin-left: 730px;
+            color: white;
+        }
+        .gz {
+            margin-top: 50px;
+            color: white;
+        }
+        .end {
+            color: white;
+            margin-left: 580px;
+            margin-top: 50px;
+        }
+    }
+/* tablet */
+   @media (min-width: 768px) and (max-width: 991px) {
+        .navbar-toggler {
+            float: left !important;
+        }
+
+        .menu-container {
+            background-color: #343a40;
+        }
+        
+        .no {
+            width: 80%;
+        }
+        .menu {
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .none {
+            width: 100%;
+        }
+
+* {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /* The grid: Three equal columns that floats next to each other */
+        .column {
+            float: left;
+            width: 50%;
+            padding: 50px;
+            text-align: center;
+            font-size: 25px;
+            cursor: pointer;
+            color: white;
+        }
+
+        .containerTab {
+            padding: 20px;
+            color: white;
+        }
+
+        /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        /* Closable button inside the container tab */
+        .closebtn {
+            float: right;
+            color: white;
+            font-size: 35px;
+            cursor: pointer;
+        }
+    .mnn {
+        width: 50%;
+        display: flex;
+    }
+.vc {
+            width: 100%;
+            background-color: darkblue;
+            height: 170px;
+            margin-top: 20px;
+        }
+        .g {
+            margin-top: 50px;
+            margin-left: 30px;
+            color: white;
+        }
+        .gz {
+            margin-top: 50px;
+            color: white;
+        }
+        .end {
+            color: white;
+            margin-left: 580px;
+            margin-top: 50px;
+        }
+    }
+/* mobile */
+    @media (max-width: 600px) { 
+ .navbar-toggler {
+            float: left !important;
+        }
+
+        .menu-container {
+            background-color: #343a40;
+        }
+        
+        .no {
+            width: 30%;
+            position: absolute;
+            top: 10px;
+        }
+        .menu {
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .none {
+            width: 100%;
+        }
+
+* {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /* The grid: Three equal columns that floats next to each other */
+        .column {
+            float: left;
+            width: 50%;
+            padding: 50px;
+            text-align: center;
+            font-size: 25px;
+            cursor: pointer;
+            color: white;
+        }
+
+        .containerTab {
+            padding: 20px;
+            color: white;
+        }
+
+        /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        /* Closable button inside the container tab */
+        .closebtn {
+            float: right;
+            color: white;
+            font-size: 35px;
+            cursor: pointer;
+        }
+    .mnn {
+        width: 50%;
+        display: flex;
+    }
+.vc {
+            margin-top: 10px;
+            width: 100%;
+            background-color: darkblue;
+            height: 170px;
+        }
+        .g {
+            margin-top: 50px;
+            margin-left: 30px;
+            color: white;
+        }
+        .gz {
+            margin-top: 50px;
+            color: white;
+        }
+        .end {
+            color: white;
+            margin-left: 80px;
+            margin-top: 50px;
+        }
+    }

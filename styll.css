@@ -1,0 +1,466 @@
+/* desktop */
+    @media (min-width: 992px) {
+        .navbar-toggler {
+            float: left !important;
+        }
+
+        .menu-container {
+            background-color: #343a40;
+        }
+        
+        .no {
+            width: 20%;
+        }
+        .menu {
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .none {
+            width: 100%;
+        }
+/*Introduction*/
+        .nein {
+            text-align: center;
+            color: white;
+            background-color: darkblue;
+            height: 300px;
+        }
+        .nei {
+            padding-top: 30px;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .aout {
+            width: 70%;
+            border: 2px solid darkblue;
+            margin-top: 30px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .box {
+           width: 50%;
+        }
+        .ne {
+            width: 100%;
+        }
+        .q {
+            margin-left: 800px;
+            
+        }
+        .font2 {
+            text-align: center;
+            text-decoration: initial;
+            margin-top: 100px;
+        }
+        .font3 {
+            text-align: center;
+            text-decoration: initial;
+        }
+        /*Courses*/
+        .about {
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 50px;
+            
+        }
+        .d {
+           background-color: darkblue;
+           height: 700px;
+        }
+        .boxxx {
+            margin-top: 50px;
+        }
+        .about-1 {
+            height: 600px;
+            border: 1px solid rgb(255, 255, 255);
+            color: lavender;
+        }
+        .normal {
+            width: 100%;
+        }
+        .nope {
+            margin-left: 30px;
+            background-color: rgb(58, 185, 90);
+            color: whitesmoke;
+            width: 100px;
+            height: 50px;
+            border-radius: 10%;
+            border: none;
+        }
+        /*Apply*/
+        .mn {
+            display: flex;
+            width: 100%;
+            border: 1px solid white;
+            background-color: darkblue;
+        }
+        .bv {
+           border: 1px solid white;
+           margin-left: auto;
+           margin-right: auto;
+           color: white;
+        }
+        .w {
+            width: 100%;
+        }
+        .bcc {
+            margin-top: 230px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 60%;
+            height: 700px;
+            text-align: center;
+            margin-top: 50px;
+        }
+        .mz {
+            margin-top: 50px;
+        }
+        .z {
+            margin-top: 50px;
+            background-color: white;
+            border: none;
+        }
+        :placeholder-shown {
+      height: 50px;
+      width: 200px;
+    }
+        .noe {
+            margin-top: 50px;
+            border: none;
+            width: 150px;
+            height: 50px;
+        }
+        .vc {
+            width: 100%;
+            background-color: darkblue;
+            height: 170px;
+        }
+        .g {
+            margin-top: 50px;
+            margin-left: 730px;
+            color: white;
+        }
+        .gz {
+            margin-top: 50px;
+            color: white;
+        }
+        .end {
+            color: white;
+            margin-left: 580px;
+            margin-top: 50px;
+        }
+    }
+/* tablet */
+ @media (min-width: 768px) and (max-width: 991px) {
+        .navbar-toggler {
+            float: left !important;
+        }
+
+        .menu-container {
+            background-color: #343a40;
+        }
+        
+        .no {
+            width: 80%;
+        }
+        .menu {
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .none {
+            width: 100%;
+        }
+/*Introduction*/
+        .nein {
+            text-align: center;
+            color: white;
+            background-color: darkblue;
+            height: 400px;
+        }
+        .nei {
+            padding-top: 30px;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .aout {
+            width: 70%;
+            border: 2px solid darkblue;
+            margin-top: 30px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .box {
+           width: 50%;
+        }
+        .ne {
+            width: 106%;
+        }
+        .q {
+            margin-left: 800px;
+            
+        }
+        .font2 {
+            text-align: center;
+            text-decoration: initial;
+            margin-top: 10px;
+        }
+        .font3 {
+            text-align: center;
+            text-decoration: initial;
+        }
+        /*Courses*/
+        .about {
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 50px;
+            
+        }
+        .d {
+           background-color: darkblue;
+           height: 500px;
+        }
+        .boxxx {
+            margin-top: 50px;
+            margin-left: 40px;
+            margin-right: 40px;
+        }
+        .about-1 {
+            height: 350px;
+            border: 1px solid rgb(255, 255, 255);
+            color: lavender;
+            text-align: center;
+        }
+        .normal {
+            width: 100%;
+        }
+        .nope {
+            margin-left: 30px;
+            background-color: rgb(58, 185, 90);
+            color: whitesmoke;
+            width: 100px;
+            height: 50px;
+            border-radius: 10%;
+            border: none;
+        }
+        /*Apply*/
+        .mn {
+            display: flex;
+            width: 100%;
+            border: 1px solid white;
+            background-color: darkblue;
+        }
+        .bv {
+           border: 1px solid white;
+           margin-left: auto;
+           margin-right: auto;
+           color: white;
+        }
+        .w {
+            width: 100%;
+            height: 650px;
+        }
+        .bcc {
+            margin-top: 230px;
+            margin-right: auto;
+            width: 100%;
+            height: 600px;
+            margin-top: 50px;
+        }
+        .z {
+            margin-top: 10px;
+            background-color: white;
+            border: none;
+        }
+        :placeholder-shown {
+      height: 50px;
+      width: 200px;
+    }
+        .noe {
+            margin-top: 50px;
+            border: none;
+            width: 150px;
+            height: 50px;
+        }
+        .vc {
+            width: 100%;
+            background-color: darkblue;
+            height: 170px;
+        }
+        .g {
+            margin-top: 50px;
+            margin-left: 30px;
+            color: white;
+        }
+        .gz {
+            margin-top: 50px;
+            color: white;
+        }
+        .end {
+            color: white;
+            margin-left: 580px;
+            margin-top: 50px;
+        }
+    }
+/* mobile */
+    @media (max-width: 600px) {
+        .navbar-toggler {
+            float: left !important;
+        }
+
+        .menu-container {
+            background-color: #343a40;
+        }
+        
+        .no {
+            width: 30%;
+            position: absolute;
+            top: 10px;
+        }
+        .menu {
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .none {
+            width: 100%;
+        }
+/*Introduction*/
+        .nein {
+            text-align: center;
+            color: white;
+            background-color: darkblue;
+            height: 450px;
+        }
+        .nei {
+            padding-top: 30px;
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .aout {
+            width: 90%;
+            border: 2px solid darkblue;
+            margin-top: 30px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .box {
+           width: 50%;
+        }
+        .ne {
+            width: 100%;
+        }
+        .q {
+            margin-left: 800px;
+            
+        }
+        .font2 {
+            text-align: center;
+            text-decoration: initial;
+            margin-top: 100px;
+        }
+        .font3 {
+            text-align: center;
+            text-decoration: initial;
+        }
+        /*Courses*/
+        .about {
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 50px;
+        }
+        .d {
+           background-color: darkblue;
+           height: 1050px;            
+        }
+        .boxxx {
+            margin-top: 50px;
+        }
+        .about-1 {
+            height: 450px;
+            border: 1px solid rgb(255, 255, 255);
+            color: lavender;
+        }
+        .normal {
+            width: 100%;
+        }
+        .nope {
+            margin-left: 30px;
+            background-color: rgb(58, 185, 90);
+            color: whitesmoke;
+            width: 100px;
+            height: 50px;
+            border-radius: 10%;
+            border: none;
+        }
+        /*Apply*/
+        .mn {
+            display: flex;
+            width: 100%;
+            border: 1px solid white;
+            background-color: darkblue;
+        }
+        .bv {
+            width: 100%;
+           border: 1px solid white;
+           margin-left: auto;
+           margin-right: auto;
+           color: white;
+        }
+        .w {
+            width: 100%;
+        }
+        .bcc {
+            margin-top: 230px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 60%;
+            height: 800px;
+            text-align: center;
+            margin-top: 50px;
+        }
+        .z {
+            margin-top: 50px;
+            background-color: white;
+            border: none;
+        }
+        :placeholder-shown {
+      height: 50px;
+      width: 200px;
+    }
+        .noe {
+            margin-top: 50px;
+            border: none;
+            width: 150px;
+            height: 50px;
+        }
+        .vc {
+            width: 100%;
+            background-color: darkblue;
+            height: 170px;
+        }
+        .g {
+            margin-top: 50px;
+            margin-left: 30px;
+            color: white;
+        }
+        .gz {
+            margin-top: 50px;
+            color: white;
+        }
+        .end {
+            color: white;
+            margin-left: 80px;
+            margin-top: 50px;
+        }
+    }
